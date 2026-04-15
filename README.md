@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Murshid Taslim! 👋
 
-<!--
-**murshidtaslim/murshidtaslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student | C++ Enthusiast | Computer Science
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 🎓 Qualification **Class 10 (CBSE)**,Studying in **Class 11**.
+- 📍 Proudly from **Bihar, India**.
+- 💻 My passion lies in **Object-Oriented Programming (OOP)**.
+- 🛠️ Currently building **C++ Programmes**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🛠️ My Coding Toolkit:
+- **Languages:** C++.
+- **OOP Skills:** Encapsulation, Inheritance, Polymorphism, Abstraction.
+  
+---
+
+### 📁 My Top Projects:
+- **[Anime Manager](link-yahan-daalo):** A full OOP-based C++ project using vectors and classes.
+- **[Calculator Pro](link-yahan-daalo):** Scientific calculator with advanced math functions.
+
+---
+
+### 📫 Reach Me:
+- GitHub: [@murshidtaslim](https://github.com/murshidtaslim)
