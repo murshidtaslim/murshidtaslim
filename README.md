@@ -27,4 +27,4 @@
 ###  Reach Me:
 - GitHub: [@murshid.taslim](https://github.com/murshidtaslim)
 - Instagram: [@murshid.taslim](https://instagram.com/murshid.taslim)
-- Telegram: [@murshid.taslim](https://t.me/@murshidpathaan)
+- Telegram: [@murshid.taslim](https://t.me/murshidpathaan)
